@@ -1,0 +1,3 @@
+﻿  Lab_8.2.cpp
+D:\NULP\AP\autumn_labs&pract\October\ap_t_08\ReadyToLook\Lab_8.2\Lab_8.2\Lab_8.2.cpp(7,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab_8.2.vcxproj -> D:\NULP\AP\autumn_labs&pract\October\ap_t_08\ReadyToLook\Lab_8.2\x64\Debug\Lab_8.2.exe
